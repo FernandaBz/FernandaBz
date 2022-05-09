@@ -1,7 +1,7 @@
 ## Olá, sou Fernanda Oliveira 👋
 
-- 🔭 Hoje trabalho com Análise e Jornalismo de Dados
-- 🌱 Estudando SQL, Python e Power BI
+- 🔭 Hoje trabalho com Jornalismo de Dados
+- 🌱 Estudando Análise de Dados, SQL, Python e Power BI
 - 📫 Contacte-me pelo email: fbnanda@gmail.com 
 - 😄 Pronouns: ela/dela
 -->
