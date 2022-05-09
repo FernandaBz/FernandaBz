@@ -19,6 +19,7 @@
   <img align="center" alt="FernandaBz_tableau" height="35" width="90" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
    <img align="center" alt="FernandaBz_pbi" height="35" width="110" src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=PowerBI&logoColor=white">
 
+
   </div>
   
   ##
