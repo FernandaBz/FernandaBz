@@ -19,8 +19,7 @@
   <img align="center" alt="FernandaBz_tableau" height="35" width="90" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
    <img align="center" alt="FernandaBz_pbi" height="35" width="110" src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=PowerBI&logoColor=white">
 
-  <img align="right" alt="FernanaBz-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+  </div>
   
   ##
  
